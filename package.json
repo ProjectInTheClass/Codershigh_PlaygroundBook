@@ -1,0 +1,23 @@
+{
+  "name": "website_",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PACMAN-X/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PACMAN-X/website/issues"
+  },
+  "homepage": "https://github.com/PACMAN-X/website#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
